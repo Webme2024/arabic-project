@@ -14,4 +14,4 @@ document.addEventListener("DOMContentLoaded", function() {
     pdfsBtn.addEventListener("click", function() {
       videosContainer.style.display = "none";
       pdfsContainer.style.display = "block";
-    });
+    });});
