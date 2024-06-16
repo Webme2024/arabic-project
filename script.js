@@ -1,3 +1,4 @@
+
 /* JavaScript (in script.js file) */
 document.addEventListener("DOMContentLoaded", function() {
     const videosBtn = document.getElementById("videos-btn");
@@ -14,4 +15,3 @@ document.addEventListener("DOMContentLoaded", function() {
       videosContainer.style.display = "none";
       pdfsContainer.style.display = "block";
     });
-  });
